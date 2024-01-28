@@ -1,6 +1,7 @@
 # LINEL
 The Linel is a simple word generator for a conlang (Constructed Language, an artificial language).
 You need to modify the sounds.txt and the syllables.txt in order to provide the possible patterns of your conlang.
+Put your patterns in the phonology folder.
 
 # Usage
 
