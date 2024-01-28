@@ -1,7 +1,4 @@
 #! /usr/bin/env python3
-"""A simple word generator for a conlang (Constructed Language, an artificial language). In the Phonology.txt file, you write your phonological system (category of sounds of the language), in the format: C=sounds, separated by commas. 
-In the syllabic structures (Syllable.txt) you add every possible combinations of the categories in the Phonology.txt.
-Running the program, you insert the number of words you want to generate."""
 
 import random
 import argparse
